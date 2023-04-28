@@ -1,4 +1,6 @@
-# pwaweather
+
+
+brittain.jireh@findours.com
 
 ## Project setup
 ```
